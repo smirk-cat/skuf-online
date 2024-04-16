@@ -1,3 +1,7 @@
 .btn {
     @apply p-5 min-w-20 bg-white text-black text-xl font-bold flex justify-center items-center rounded-xl;
 }
+
+.btn.outlined {
+    @apply bg-transparent text-white border-white border;
+}

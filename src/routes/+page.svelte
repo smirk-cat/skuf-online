@@ -14,6 +14,7 @@
 <div class="flex w-full justify-center items-center flex-col mt-5 px-8">
     <img alt="fif" class="rounded-xl" src="/img/doebistyi-fif.png" />
     <a href="#fif" class="btn mt-5 w-96 max-w-full">Hold my :fif:</a>
+    <a target="_blank" href="https://www.google.com/search?q=scuf+controller&oq=skuf+con&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyDAgFEAAYChgPGBYYHtIBCDIyNTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8" class="btn outlined mt-5 w-96 max-w-full">Find more Skuf &trade;</a>
 </div>
 
 <div class="mt-20 h-20"></div>
