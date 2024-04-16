@@ -1,0 +1,4 @@
+main {
+    @apply top-20 fixed left-0 w-full overflow-y-auto;
+    height: calc(100vh - 5rem);
+}
